@@ -12,4 +12,4 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-![Nalbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalbertCP)](https://github.com/NalbertCP/github-readme-stats)
+![Nalbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalbertCP)]
