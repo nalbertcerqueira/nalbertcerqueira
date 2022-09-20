@@ -14,5 +14,3 @@
 <br>
 <h3>Estatísticas</h3>
 ![Nalbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalbertCP)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalbertCP)
