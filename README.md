@@ -14,4 +14,4 @@
 
 <h3>Estatísticas</h3>
 
-![Nalbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalbertCP)
+![Nalbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalbertCP&show_icons=true&theme=rose-pine)
