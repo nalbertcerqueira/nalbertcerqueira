@@ -1,7 +1,7 @@
 <h2>Oi Eu sou o Nalbert ! :v: :technologist: </h2>
 <ul>
-  <li>Atualmente estou estudando ReactJS :fox_face:
-  <li>Buscando me tornar um Desenvolvedor Front-End :electron:.
+  <li>Atualmente estou estudando ReactJS :electron:
+  <li>Buscando me tornar um Desenvolvedor Front-End :sunrise_over_mountains:
 </ul>
 
 <h3>Stacks e tecnologias</h3>
