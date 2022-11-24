@@ -23,4 +23,4 @@
 
 <h3>Estatísticas</h3>
 
-![Nalbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalbertcerqueira&show_icons=true&border_color=79fe96&bg_color=45,141414,202020,1d3522&title_color=ffffff&icon_color=67d07c&text_color=b3b3b3)
+![Nalbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalbertcerqueira&show_icons=true&border_color=6fee89&bg_color=45,141414,202020,1d3522&title_color=ffffff&icon_color=6fee89&text_color=b3b3b3)
