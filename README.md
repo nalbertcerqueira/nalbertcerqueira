@@ -8,8 +8,6 @@
 
 ## 👨‍💻 Stacks & Frameworks
 
-#
-
 <div class="stacks">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -19,8 +17,6 @@
 <br>
 
 ## ⚒️ Tools & Plataforms
-
-#
 
 <div class="dev-tools">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
@@ -32,8 +28,6 @@
 <br>
 
 ## 🥉 🥈 🥇 Statistics
-
-#
 
 ![Nalbert's GitHub stats](https://vercel-readme-stats-git-main-nalbertcerqueira.vercel.app/api?username=nalbertcerqueira&show_icons=true&border_color=61ff81&bg_color=45,141414,202020,1b4b25&gradient_animation=true&title_color=ffffff&icon_color=61ff81&text_color=b3b3b3)
 <br>
