@@ -1,4 +1,4 @@
-<h1> :speech_balloon: :v: :technologist: Oi Eu sou o Nalbert !  </h1>
+<h2> :speech_balloon: :v: :technologist: Oi Eu sou o Nalbert !  </h2>
 <ul>
   <li>Atualmente estou estudando ReactJS :electron:
   <li>Buscando me tornar um Desenvolvedor Front-End :sunrise_over_mountains:
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-<h3>:hammer_and_pick: Tools & Plataforms<h3>
+<h2>:hammer_and_pick: Tools & Plataforms<h2>
 <div class="dev-tools">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -21,6 +21,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div> 
 
-<h3>:3rd_place_medal: :2nd_place_medal: :1st_place_medal: Statistics</h3>
+<h2>:3rd_place_medal: :2nd_place_medal: :1st_place_medal: Statistics</h2>
   
 ![Nalbert's GitHub stats](https://vercel-readme-stats-git-main-nalbertcerqueira.vercel.app/api?username=nalbertcerqueira&show_icons=true&border_color=61ff81&bg_color=45,141414,202020,1b4b25&gradient_animation=true&title_color=ffffff&icon_color=61ff81&text_color=b3b3b3)
