@@ -1,11 +1,10 @@
-<h2> :speech_balloon: :v: :technologist: Oi Eu sou o Nalbert !  </h2>
+<h1> :speech_balloon: :v: :technologist: Oi Eu sou o Nalbert !  </h1>
 <ul>
   <li>Atualmente estou estudando ReactJS :electron:
   <li>Buscando me tornar um Desenvolvedor Front-End :sunrise_over_mountains:
 </ul>
 
-<h3> :man_technologist: Stacks & Frameworks<h3>
-## :man_technologist: Stacks & Frameworks
+<h2> :man_technologist: Stacks & Frameworks<h2>
 <div class="stacks">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
