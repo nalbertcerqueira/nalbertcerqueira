@@ -4,7 +4,7 @@
   <li>Buscando me tornar um Desenvolvedor Front-End :sunrise_over_mountains:
 </ul>
 
-<h3> :man_technologist: Stacks e Frameworkers<h3>
+<h3> :man_technologist: Stacks e Frameworks<h3>
 <div class="stacks">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
