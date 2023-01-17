@@ -1,7 +1,7 @@
 ## 💬 ✌️ 🧑‍💻 Oi Eu sou o Nalbert !
 
 <ul>
-  <li>Atualmente estou estudando ReactJS and NextJS :electron:
+  <li>Atualmente estou estudando ReactJS/NextJS :electron:
   <li>Buscando me tornar um Desenvolvedor Front-End :sunrise_over_mountains:
 </ul>
 
