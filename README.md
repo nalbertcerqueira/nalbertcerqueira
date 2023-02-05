@@ -6,7 +6,9 @@ Me chamo **Nalbert Cerqueira**, sou um recem formado em Engenharia Química, que
 Atualmente meu principal objetivo é me tornar um **Desenvolvedor Web Front-End.**
 
 **Atualmente venho:**
+
 :electron: Estudando ReactJS e NextJS.
+
 👨‍💻 Desenvolvendo meu portfólio como uma página web.
 
 ## 🚀💻 Tecnologias e Ferramentas
