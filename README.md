@@ -11,9 +11,7 @@ Atualmente meu principal objetivo é me tornar um **Desenvolvedor Web Front-End.
 **Ultimamente:**
 
 :electron: Venho estudando ReactJS e NextJS.
-
 🚀 Venho estudando sobre deploy de aplicações com Frontend e Backend 
-
 👨‍💻 Estou desenvolvendo meu portfólio como uma página web.
 
 ## 💻 Tecnologias e Ferramentas
