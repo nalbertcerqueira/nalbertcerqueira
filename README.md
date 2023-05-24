@@ -3,16 +3,18 @@
 [![Instagram Badge](https://img.shields.io/badge/-ncerqueiraa-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ncerqueiraa/?hl=pt-br)](https://www.instagram.com/ncerqueiraa/) 
 [![Gmail Badge](https://img.shields.io/badge/-nalbertc.p@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nalbertc.p@gmail.com)](mailto:nalbertc.p@gmail.com)
 
-## 😄 Sobre mim
+## 😄 Sobre mim     
+
 
 Me chamo **Nalbert Cerqueira**, sou um recém-formado em Engenharia Química que decidiu encarar o desafio de fazer uma transição de carreira para o setor de tecnologia.
 Atualmente meu principal objetivo é me tornar um **Desenvolvedor Web Front-End.** fiquem a vontade para contribuírem e deixarem suas críticas e sugestões, fork me !
 
+💼 Portfólio: https://nalbertdev.com
+
 **Ultimamente:**
 
-:electron: Venho estudando ReactJS e NextJS.<br>
-🚀 Venho estudando sobre deploy de aplicações com Frontend e Backend<br>
-👨‍💻 Estou desenvolvendo meu portfólio como uma página web.
+☑️ Venho estudando sobre Typescript<br>
+🚀 Venho estudando sobre deploy de aplicações com Frontend e Backend
 
 ## 💻 Tecnologias e Ferramentas
 
