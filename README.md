@@ -9,7 +9,7 @@
 Me chamo **Nalbert Cerqueira**, sou um recém-formado em Engenharia Química que decidiu encarar o desafio de fazer uma transição de carreira para o setor de tecnologia.
 Atualmente meu principal objetivo é me tornar um **Desenvolvedor Web Front-End.** fiquem a vontade para contribuírem e deixarem suas críticas e sugestões, fork me !
 
-💼 Portfólio: https://nalbertdev.com
+💼 Portfólio: <a target="_blank" href="https://nalbertdev.com">https://nalbertdev.com</a>
 
 **Ultimamente:**
 
