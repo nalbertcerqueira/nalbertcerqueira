@@ -24,4 +24,4 @@ Atualmente meu principal objetivo é me tornar um **Desenvolvedor Web Front-End.
 
 ## ⚡ Estatísticas - GitHub
 
-![Nalbert's GitHub stats](https://vercel-readme-stats-git-main-nalbertcerqueira.vercel.app/api?username=nalbertcerqueira&show_icons=true&border_color=61ff81&bg_color=45,141414,202020,1b4b25&gradient_animation=true&title_color=ffffff&icon_color=61ff81&text_color=b3b3b3)
+![Nalbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalbertcerqueira&show_icons=true&border_color=61ff81&bg_color=45,141414,202020,1b4b25&title_color=ffffff&icon_color=61ff81&text_color=b3b3b3)
