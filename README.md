@@ -11,10 +11,10 @@ Atualmente meu principal objetivo é me tornar um **Desenvolvedor Web Front-End.
 
 💼 Portfólio: <a target="_blank" href="https://nalbertdev.com">https://nalbertdev.com</a>
 
-**Ultimamente:**
+**Atualmente:**
 
-☑️ Venho estudando sobre Typescript<br>
-🚀 Venho estudando sobre deploy de aplicações com Frontend e Backend
+* ☑️ Estou estudando Typescript<br>
+* 🚀 Estou estudando sobre deploy de aplicações com Frontend e Backend
 
 ## 💻 Tecnologias e Ferramentas
 
