@@ -18,7 +18,7 @@ Atualmente meu principal objetivo é me tornar um **Desenvolvedor Web Front-End.
 
 ## 💻 Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,sass,nodejs,expressjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,nodejs,expressjs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=postman,git,github,webpack,vscode,linux)](https://skillicons.dev)
 
