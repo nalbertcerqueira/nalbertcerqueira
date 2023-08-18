@@ -13,8 +13,8 @@ Atualmente meu principal objetivo é me tornar um **Desenvolvedor Web Front-End.
 
 **Atualmente:**
 
-* ☑️ Estou estudando Typescript<br>
-* 🚀 Estou estudando sobre deploy de aplicações com Frontend e Backend
+* 🧪 Estudando sobre testes unitários;
+* ✨ Estudando clean code e os princípios SOLID;
 
 ## 💻 Tecnologias e Ferramentas
 
