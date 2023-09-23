@@ -13,7 +13,7 @@ Atualmente meu principal objetivo é me tornar um **Desenvolvedor Web Front-End.
 
 **Atualmente:**
 
-* 🧪 Estudando sobre testes unitários;
+* 🧪 Estudando sobre testes unitários e de integração;
 * ✨ Estudando clean code e os princípios SOLID;
 
 ## 💻 Tecnologias e Ferramentas
