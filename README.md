@@ -13,14 +13,15 @@ Atualmente meu principal objetivo é me tornar um **Desenvolvedor Web Front-End.
 
 **Atualmente:**
 
+* 📚 Cursando Análise e desenvolvimento de sistemas;
 * 🧪 Estudando sobre testes unitários e de integração;
-* ✨ Estudando clean code e os princípios SOLID;
+* ✨ Estudando Clean architecture e os princípios SOLID;
 
 ## 💻 Tecnologias e Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,nodejs,expressjs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postman,git,github,webpack,vscode,linux,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,git,github,webpack,vscode,linux,mongodb,figma)](https://skillicons.dev)
 
 ## ⚡ Estatísticas - GitHub
 
