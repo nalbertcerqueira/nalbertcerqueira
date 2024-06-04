@@ -14,7 +14,8 @@ Atualmente meu principal objetivo é me tornar um **Desenvolvedor Web Front-End.
 **Atualmente:**
 
 * 📚 Cursando Análise e desenvolvimento de sistemas;
-* ✨ Estudando Clean architecture e os princípios SOLID;
+* ⚙️ Estudando algoritmos e estruturas de dados;
+* 📂 Estudando sobre bancos de dados relacionais;
 
 ## 💻 Tecnologias e Ferramentas
 
