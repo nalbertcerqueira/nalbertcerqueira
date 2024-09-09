@@ -5,7 +5,7 @@
 
 ## 😄 Sobre mim     
 
-Me chamo **Nalbert Cerqueira**, sou um recém-formado em Engenharia Química que decidiu encarar o desafio de fazer uma transição de carreira para o setor de tecnologia. Atualmente como **Desenvolvedor Front-End** pussuo experiência no desenvolvimento de sistemas e aplicações e estou buscando por novas oportunidades e desafios com objetivo de agregar valor no desenvolvimento de projetos desafiadores.
+Me chamo **Nalbert Cerqueira**, sou um recém-formado em Engenharia Química que decidiu encarar o desafio de fazer uma transição de carreira para o setor de tecnologia. Atualmente como **Desenvolvedor Front-End** estou buscando por novas oportunidades e desafios com objetivo de agregar valor no desenvolvimento de projetos desafiadores.
 
 💼 Portfólio: <a target="_blank" href="https://nalbertdev.com">https://nalbertdev.com</a>
 
