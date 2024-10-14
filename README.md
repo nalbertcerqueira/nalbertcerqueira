@@ -12,8 +12,7 @@ Olá! Sou **Nalbert Cerqueira**, recém-formado em engenharia química que decid
 **Atualmente:**
 
 * 📚 Cursando Análise e desenvolvimento de sistemas;
-* ⚙️ Estudando algoritmos e estruturas de dados;
-* 📂 Estudando sobre bancos de dados relacionais;
+* ⚡ Estudando sobre comunicação em tempo real e websockets;
 
 ## 💻 Tecnologias e Ferramentas
 
