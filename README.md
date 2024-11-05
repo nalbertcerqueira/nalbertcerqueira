@@ -19,7 +19,3 @@ Olá! Sou **Nalbert Cerqueira**, recém-formado em engenharia química que decid
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,sass,nodejs,expressjs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=postman,git,github,webpack,vscode,linux,mysql,mongodb,figma)](https://skillicons.dev)
-
-## ⚡ Estatísticas - GitHub
-
-![Nalbert's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nalbertcerqueira&show_icons=true&border_color=61ff81&bg_color=45,141414,202020,1b4b25&title_color=ffffff&icon_color=61ff81&text_color=b3b3b3)
