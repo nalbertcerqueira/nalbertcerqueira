@@ -5,7 +5,7 @@
 
 ## 😄 Sobre mim     
 
-Olá! Sou **Nalbert Cerqueira**, recém-formado em engenharia química que decidiu fazer uma transição de carreira para o setor de tecnologia. Atualmente como **Desenvolvedor Full Stack** estou em busca de novas oportunidades e desafios com objetivo de agregar valor no desenvolvimento de projetos desafiadores.
+Olá! Sou **Nalbert Cerqueira**, recém-formado em engenharia química que decidiu fazer uma transição de carreira para o setor de tecnologia. Atualmente como **Desenvolvedor Front-end** estou em busca de novas oportunidades e desafios com objetivo de agregar valor no desenvolvimento de projetos desafiadores.
 
 💼 Portfólio: <a target="_blank" href="https://nalbertdev.com">https://nalbertdev.com</a>
 
