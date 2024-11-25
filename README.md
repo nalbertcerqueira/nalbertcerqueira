@@ -16,6 +16,6 @@ Olá! Sou **Nalbert Cerqueira**, recém-formado em engenharia química que decid
 
 ## 💻 Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,sass,nodejs,expressjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,sass,styledcomponents,nodejs,expressjs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=postman,git,github,webpack,vscode,linux,mysql,mongodb,figma)](https://skillicons.dev)
