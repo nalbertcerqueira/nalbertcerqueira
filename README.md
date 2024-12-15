@@ -12,7 +12,7 @@ Olá! Sou **Nalbert Cerqueira**, recém-formado em engenharia química que decid
 **Atualmente:**
 
 * 📚 Cursando Análise e desenvolvimento de sistemas;
-* ⚡ Estudando sobre comunicação em tempo real e websockets;
+* 📱 Estudando sobre desenvolvimento mobile e React native;
 
 ## 💻 Tecnologias e Ferramentas
 
