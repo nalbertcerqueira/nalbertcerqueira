@@ -8,11 +8,11 @@
 
 HI, i'm **Nalbert**. 
 
-i'm a frontend developer who loves building apps from zero to deploy. My expertise is primaryly focused in web development, but right now i'm deep diving into the world of mobile developement using react native as my main framework. 
+I'm a frontend developer who loves building apps from zero to deploy. My expertise is primarily focused on web development, but right now I'm deep diving into the world of mobile development using React Native as my main framework. 
 
-I enjoy discussing about everything related to the javascript ecosystem, from it's engine to it's most popular frameworks. I believe that sharing ideas and learning from the experience of the ohters is one of the best ways we can grow as developers.
+I enjoy discussing everything related to the JavaScript ecosystem, from its engine to its most popular frameworks. I believe that sharing ideas and learning from the experience of the others is one of the best ways we can grow as developers.
 
-At the moment i'm working on side projects, some as a volunteer, and others as a part of a group of awesome people trying our luck at launching an app and (hopefully) hitting the jackpot!
+At the moment i'm working on side projects, some as a volunteer, and others as part of a group of awesome people trying our luck at launching an app and (hopefully) hitting the jackpot!
 
 Here you'll find some of my personal projects, feel free to fork any of them if there's something you like.
 
