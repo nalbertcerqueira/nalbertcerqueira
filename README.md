@@ -1,8 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi everyone 
-
-[![Linkedin Badge](https://img.shields.io/badge/-nalbertcerqueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nalbert-cerqueira-53981a162/)](https://www.linkedin.com/in/nalbert-cerqueira-53981a162/) 
-[![Instagram Badge](https://img.shields.io/badge/-ncerqueiraa-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ncerqueiraa/?hl=pt-br)](https://www.instagram.com/ncerqueiraa/) 
-[![Gmail Badge](https://img.shields.io/badge/-nalbertc.p@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nalbertc.p@gmail.com)](mailto:nalbertc.p@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/nalbertdev.com-71717a?logo=naver&logoColor=white&logoWidth=12)](nalbertdev.com)
+[![Linkedin Badge](https://img.shields.io/badge/nalbertcerqueira-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nalbert-cerqueira-53981a162/)](https://www.linkedin.com/in/nalbert-cerqueira-53981a162/) 
+[![Gmail Badge](https://img.shields.io/badge/nalbertc.p@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:nalbertc.p@gmail.com)](mailto:nalbertc.p@gmail.com)
 
 ## 💬 Quick overview
 
@@ -15,8 +14,6 @@ I enjoy discussing everything related to the JavaScript ecosystem, from its engi
 At the moment i'm working on side projects, some as a volunteer, and others as part of a group of awesome people trying our luck at launching an app and (hopefully) hitting the jackpot!
 
 Here you'll find some of my personal projects, feel free to fork any of them if there's something you like.
-
-💼 Portfolio: <a target="_blank" href="https://nalbertdev.com">https://nalbertdev.com</a>
 
 **Currently:**
  ⚡
