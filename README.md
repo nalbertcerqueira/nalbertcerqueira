@@ -15,9 +15,8 @@ At the moment i'm working on side projects, some as a volunteer, and others as p
 
 Here you'll find some of my personal projects, feel free to fork any of them if there's something you like.
 
-**Currently:**
- ⚡
-* 💻 Working in side projects;
+⚡ **Currently:**
+* 💻 Working on side projects;
 * 📱 Deep diving into mobile development;
 
 ## 🔧 Technologies & Tools
