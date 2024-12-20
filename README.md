@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi everyone 
 [![Portfolio Badge](https://img.shields.io/badge/nalbertdev.com-71717a?logo=naver&logoColor=white&logoWidth=12&link=https://nalbertdev.com)](https://nalbertdev.com) 
-[![Linkedin Badge](https://img.shields.io/badge/nalbertcerqueira-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nalbert-cerqueira)](https://www.linkedin.com/in/nalbert-cerqueira-53981a162/) 
+[![Linkedin Badge](https://img.shields.io/badge/nalbertcerqueira-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nalbert-cerqueira)](https://www.linkedin.com/in/nalbert-cerqueira) 
 [![Gmail Badge](https://img.shields.io/badge/nalbertc.p@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:nalbertc.p@gmail.com)](mailto:nalbertc.p@gmail.com)
 
 ## 💬 Quick overview
