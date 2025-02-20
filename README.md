@@ -24,4 +24,4 @@ Here you'll find some of my personal projects, feel free to fork any of them if 
 ## 🔧 Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,sass,styledcomponents)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,mysql,postgres,mongodb,git,postman,github,webpack,vscode,linux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,mysql,postgres,mongodb,git,webpack,vscode,linux,figma)](https://skillicons.dev)
